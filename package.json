@@ -2,7 +2,7 @@
   "name": "js-for-react-native-11170189",
   "version": "1.0.0",
   "type": "module",
-  "description": "DCIT 208 assignment submission",
+  "description": "DCIT 202 assignment submission",
   "main": "userInfo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
